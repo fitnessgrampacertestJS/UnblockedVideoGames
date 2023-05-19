@@ -5,4 +5,4 @@ https://fitnessgrampacertestjs.github.io/UnblockedVideoGames/
 5/15/2023
 i have officially added a ds emulator to the site (not made by me go support the real creator)
 5/19/2023
-i have removed the ds emulator due to it being buggy and broken, and i have no added "there is no game" into the website by 3kh0 i hope you enjoy this
+i have removed the ds emulator due to it being buggy and broken
